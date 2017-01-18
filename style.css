@@ -1,0 +1,17 @@
+
+table 
+{
+    margin: 0 auto; /* or margin: 0 auto 0 auto */
+}
+
+table,th,td
+{
+   border: 1px solid black;
+   
+}
+
+th
+{
+	text-align: center;
+	padding: 5px 5px 5px 5px
+}
